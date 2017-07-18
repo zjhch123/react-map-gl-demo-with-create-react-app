@@ -3,8 +3,8 @@ This is a react-map-gl demo for someone who use create-react-app.
 
 ## 0. version
 ```
-create-react-app version is v1.3.3
-react-map-gl version is v2.0.3
+create-react-app  v1.3.3
+react-map-gl      v2.0.3
 ```
 
 ## 1. init 
@@ -41,7 +41,7 @@ those files will look like
 
 ## 4. Over
 ok, let's update the `App.js`
-```
+```jsx
 import React, { Component } from 'react';
 import MapGL from 'react-map-gl';
 
