@@ -28,8 +28,8 @@ yarn eject
 find the config files at `demo/config/webpack.config.dev.js` and `demo/config/webpack.config.prod.js`.
 
 find `resolve` element in those 2 files:
-![demo](https://image.hduzplus.xyz/image/1500383183067.png)
-![demo2](https://image.hduzplus.xyz/image/1500383217756.png)
+![demo](https://raw.githubusercontent.com/zjhch123/react-map-gl-demo-with-create-react-app/master/assets/1.png)
+![demo2](https://raw.githubusercontent.com/zjhch123/react-map-gl-demo-with-create-react-app/master/assets/2.png)
 
 then add this content to `alias` element in those 2 files :
 ```
@@ -37,7 +37,7 @@ then add this content to `alias` element in those 2 files :
 ```
 
 those files will look like
-![demo3](https://image.hduzplus.xyz/image/1500383344766.png)
+![demo3](https://raw.githubusercontent.com/zjhch123/react-map-gl-demo-with-create-react-app/master/assets/3.png)
 
 ## 4. Over
 ok, let's update the `App.js`
@@ -71,4 +71,4 @@ yarn start
 ```
 
 wow! it works!
-![demo5](https://image.hduzplus.xyz/image/1500383611832.png)
+![demo5](https://raw.githubusercontent.com/zjhch123/react-map-gl-demo-with-create-react-app/master/assets/4.png)
